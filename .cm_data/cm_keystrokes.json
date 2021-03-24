@@ -1,0 +1,18 @@
+{
+    "config.yml": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Mar 24 2021 15:41:43",
+            "keyStrokeInfo": " ",
+            "position": "15,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Mar 24 2021 15:41:44",
+            "keyStrokeInfo": "7",
+            "position": "15,41"
+        }
+    ]
+}
